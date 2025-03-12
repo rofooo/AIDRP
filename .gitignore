@@ -106,16 +106,6 @@ coverage.xml
 *.cover
 .hypothesis/
 
-# Visualization outputs
-plots/
-figures/
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-*.pdf
-
 # Large documentation files
 docs/_build/
 site/
