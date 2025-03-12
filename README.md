@@ -113,7 +113,7 @@ Please make sure to update tests as appropriate.
 If you use AIDRP in your research, please cite:
 
 ```bibtex
-@software{aidrp2024,
+@software{aidrp2025,
   title = {AIDRP: AI-Based Dynamic Routing Protocol},
   author = {Bhattacharjee, Indraneel},
   year = {2025},
